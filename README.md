@@ -1,1 +1,2 @@
 # SO_Semaforo_Exercicio_F1
+#VocêfoicontratadoparaautomatizarumtreinodeFórmula1. Asregrasestabelecidaspeladireçãodaprovassãosimples: “No máximo 5 carros das 7 escuderias (14 carros no total) presentes podem entrar na pista simultaneamente, mas apenas umcarrodecadaequipe.Osegundocarrodeveficaràespera, casoumcompanheirodeequipejáestejanapista.Cadapiloto deve dar 3 voltas na pista. O tempo de cada volta deverá ser exibido e a volta mais rápida de cada piloto deve ser armazenada para, ao final, exibir o grid de largada, ordenado domenortempoparaomaior.”
